@@ -1,0 +1,21 @@
+{
+  "name": "stackrabbit-content-parser",
+  "version": "0.0.0",
+  "description": "Message content parsing middleware for stackrabbit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "danethurber/stackrabbit-content-parser",
+  "keywords": [
+    "middleware",
+    "stackrabbit",
+    "generators",
+    "rabbit",
+    "rabbitmq",
+    "ampq",
+    "ampqlib"
+  ],
+  "author": "Dane Thurber <dane.thurber@gmail.com>",
+  "license": "MIT"
+}
