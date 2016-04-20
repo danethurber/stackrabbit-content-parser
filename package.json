@@ -4,7 +4,7 @@
   "description": "Message content parsing middleware for stackrabbit",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/mocha"
   },
   "repository": "danethurber/stackrabbit-content-parser",
   "keywords": [
@@ -17,5 +17,12 @@
     "ampqlib"
   ],
   "author": "Dane Thurber <dane.thurber@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "co-mocha": "^1.1.2",
+    "mocha": "^2.4.5",
+    "sinon": "^1.17.3",
+    "stackrabbit": "^0.1.1"
+  }
 }
