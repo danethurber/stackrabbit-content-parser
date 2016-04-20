@@ -1,4 +1,4 @@
-# Stackrabbit Content Parser [Coming Soon]
+# Stackrabbit Content Parser
 
 [![Circle CI](https://circleci.com/gh/danethurber/stackrabbit-content-parser.svg?style=shield)](https://circleci.com/gh/danethurber/stackrabbit-content-parser)
 
